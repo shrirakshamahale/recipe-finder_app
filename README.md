@@ -18,3 +18,7 @@ A React + Vite powered app that allows users to browse recipes by categories, ex
 ## Development
 
 This project was bootstrapped with the React + Vite template.
+
+
+live link 
+https://recshri.netlify.app/
